@@ -36,7 +36,7 @@ For each of these options, you may choose to run with chaincode written in golan
 * Launch the network using docker-compose
 
 ```
-docker-compose -f artifacts/docker-compose.yaml up
+docker-compose -f artifacts/docker-compose.yaml up -d
 ```
 ``
 
